@@ -1,7 +1,7 @@
 # happyNLW3.0
  Projeto construído durante o Next Level Week #03 na trilha Omnistack
  
-## Este projeto foi criado durante a Next Level Week e ministrada pelo grande Diego Fernandes.
+Este projeto foi criado durante a Next Level Week e ministrada pelo grande Diego Fernandes.
 
  As tecnologias trabalhadas foram, em suma:
  
