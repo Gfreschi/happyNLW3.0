@@ -1,17 +1,17 @@
 # happyNLW3.0
- Projeto construído durante o Next Level Week #03 na trilha Omnistack
+ Project built during Next Level Week # 03 on the Omnistack track
  
  Original: https://github.com/rocketseat-education/nlw-03-omnistack
  
-## Sobre Happy
-O projeto visa a inclusão e o maior acesso a visitação de casas de acolhimento.
+## About Happy
+The project aims at inclusion and greater access to visitation of host houses (Orphanages).
 
 ## Stack
 
- As tecnologias trabalhadas foram, em suma:
+ The technologies worked were:
  
  - React.js
  - Node.js
  - React Native
  
- ## Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+ ## This project is under the MIT license. See the LICENSE file for more details.
